@@ -23,9 +23,9 @@ body {
     text-decoration: none;
   }
   
-  h1, h2, h3, h4, h5, h6 {
+  /* h1, h2, h3, h4, h5, h6 {
     font-family: "Satisfy", sans-serif;
-  }
+  } */
   
   /*--------------------------------------------------------------
   # Back to top button
@@ -72,11 +72,11 @@ body {
     z-index: 996;
     color: rgba(255, 255, 255, 0.7);
   }
-  
+/*   
   #topbar.topbar-transparent {
     background: transparent;
   }
-  
+   */
   #topbar.topbar-scrolled {
     top: -50px;
   }
@@ -92,8 +92,9 @@ body {
     padding-left: 5px;
   }
   
+  
   /*--------------------------------------------------------------
-  # Header
+  # header1
   --------------------------------------------------------------*/
   #header {
     top: 50px;
@@ -104,10 +105,10 @@ body {
     background: rgba(26, 24, 22, 0.85);
   }
   
-  #header.header-transparent {
+  /* #header.header-transparent {
     background: transparent;
   }
-  
+   */
   #header.header-scrolled {
     top: 0;
     background: rgba(26, 24, 22, 0.85);
@@ -793,7 +794,14 @@ body {
   /*--------------------------------------------------------------
   # Whu Us
   --------------------------------------------------------------*/
+  .why-us{
+
+    background: url(../img/events-bg.jpg) center center no-repeat;
+    background-size: cover;
+    position: relative;
+  }
   .why-us .box {
+    background: #ffffff;
     padding: 50px 30px;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     transition: all ease-in-out 0.3s;
@@ -835,6 +843,7 @@ body {
   /*--------------------------------------------------------------
   # Menu Section
   --------------------------------------------------------------*/
+
   .menu #menu-flters {
     padding: 0;
     margin: 0 auto 0 auto;
@@ -978,7 +987,7 @@ body {
   # Events
   --------------------------------------------------------------*/
   .events {
-    
+    background: url(../img/events-bg.jpg) center center no-repeat;
     background-size: cover;
     position: relative;
   }
@@ -1161,7 +1170,7 @@ body {
   
   /*--------------------------------------------------------------
   # Gallery
-  --------------------------------------------------------------*/
+  ---------------------------------------------------------------*/
   .gallery {
     padding-bottom: 0;
   }
@@ -1178,6 +1187,85 @@ body {
   
   .gallery .gallery-item:hover img {
     transform: scale(1.1);
+  }
+
+  #myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #myImg:hover {opacity: 0.7;}
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+  
+  /* Modal Content (image) */
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+  
+  /* Caption of Modal Image */
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  
+  /* Add Animation */
+  .modal-content, #caption {  
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  
+  @keyframes zoom {
+    from {transform: scale(0.1)} 
+    to {transform: scale(1)}
+  }
+  
+  /* The Close Button */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* 100% Image Width on Smaller Screens */
+  @media only screen and (max-width: 700px){
+    .modal-content {
+      width: 100%;
+    }
   }
   
   /*--------------------------------------------------------------

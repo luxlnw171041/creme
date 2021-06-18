@@ -32,11 +32,12 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
- <!-- ======= Top Bar ======= -->
- <section id="topbar" class="d-flex align-items-center fixed-top topbar-transparent">
+ 
+<!-- ======= Top Bar ======= -->
+<section id="topbar" class="d-flex align-items-center fixed-top topbar-transparent">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-center justify-content-lg-start">
       <i class="bi bi-phone d-flex align-items-center"><span>+66(0)86-977-7677, +66(0)95-556-5411</span></i>
-      <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span>Mon-Sat: 07:00 AM - 23:00 PM</span></i>
+      <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span>Mon-Sun: 08:00 AM - 05:00 PM</span></i>
     </div>
   </section>
 
@@ -45,7 +46,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <div class="logo me-auto">
-        <h1><a href="index">Creme</a></h1>
+        <h1><a href="">Creme</a></h1>
         <h5>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index">de la Creme</a></h5>
         
         <!-- Uncomment below if you prefer to use an image logo -->
@@ -59,8 +60,15 @@
           <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li class="dropdown"><a href="#"><span>Patite</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="menu">menu</a></li>
+            </ul>
+          </li>
         </ul>
+        
         <i class="bi bi-list mobile-nav-toggle"></i>
+        
       </nav><!-- .navbar -->
 
     
@@ -94,11 +102,35 @@
   <script src="{{ asset('delicious/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
   <script src="{{ asset('delicious/vendor/glightbox/js/glightbox.min.js') }}"></script>
   <script src="{{ asset('delicious/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-  <script src="{{ asset('delicious/vendor/php-email-form/validate.js') }}"></script>
-  <script src="{{ asset('delicious/vendor/swiper/swiper-bundle.min.js') }}"></script>
+  <script src="{{ asset('vendor/php-email-form/validate.js') }}"></script>
+  <script src="{{ asset('vendor/swiper/swiper-bundle.min.js') }}"></script>
 
   <!-- Template Main JS File -->
   <script src="{{ asset('delicious/js/main.js') }}"></script>
+  
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
+
 </body>
 
 </html>
