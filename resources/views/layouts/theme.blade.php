@@ -36,8 +36,9 @@
 <!-- ======= Top Bar ======= -->
 <section id="topbar" class="d-flex align-items-center fixed-top topbar-transparent">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-center justify-content-lg-start">
-      <i class="bi bi-phone d-flex align-items-center"><span>+66(0)86-977-7677, +66(0)95-556-5411</span></i>
-      <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span>Mon-Sun: 08:00 AM - 05:00 PM</span></i>
+      <i class="bi bi-phone d-flex align-items-center"><span >+66(0)86-977-7677, +66(0)95-556-5411</span></i>
+      <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span >Mon-Sun: 08:00 AM - 05:00 PM</span></i>
+      &nbsp;<div style="margin-top:15px;" id="google_translate_element"></div>
     </div>
   </section>
 
@@ -55,7 +56,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="{{URL::to('/')}}">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
@@ -104,7 +105,12 @@
   <script src="{{ asset('delicious/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
   <script src="{{ asset('vendor/php-email-form/validate.js') }}"></script>
   <script src="{{ asset('vendor/swiper/swiper-bundle.min.js') }}"></script>
-
+  <script type="text/javascript">
+              function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'th'}, 'google_translate_element');
+              }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   <!-- Template Main JS File -->
   <script src="{{ asset('delicious/js/main.js') }}"></script>
   

@@ -5,6 +5,9 @@
 * License: https://bootstrapmade.com/license/
 */
 
+/* //google trenlest// */
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -22,7 +25,17 @@ body {
     color: #ffc56e;
     text-decoration: none;
   }
-  
+  .goog-logo-link {
+    display:none !important;
+} 
+    
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+.goog-te-banner-frame.skiptranslate {
+display: none !important;
+} 
   /* h1, h2, h3, h4, h5, h6 {
     font-family: "Satisfy", sans-serif;
   } */
