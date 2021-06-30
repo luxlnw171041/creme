@@ -714,7 +714,7 @@
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
               <i class="bi bi-clock"></i>
               <h4>Open Hours:</h4>
-              <p>Monday-Saturday:<br>08:00 AM - 05:00 PM</p>
+              <p>Monday-Sunday:<br>08:00 AM - 05:00 PM</p>
             </div>
 
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
