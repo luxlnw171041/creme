@@ -26,7 +26,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">ถั่วแดง(mini)</a><span>฿22.50</span>
+              <a href="#">Anpan Red Bean Bread</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -35,7 +35,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">ไส้ครีม(mini)</a><span>฿22.50</span>
+              <a href="#">Anpan Custard Cream Bread</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -44,7 +44,7 @@
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">ชานมไต้หวัน</a><span>฿32.00</span>
+              <a href="#">Rich Creamy Aromatic Taiwanese Milk Tea</a><span>฿32.00</span>
             </div>
             <div class="menu-ingredients">
             ชาไต้หวันเเท้ๆ ชงสดใหม่ในทุกๆ วัน ทำให้ชามีรสชาติอร่อยกลมกล่อม
@@ -53,7 +53,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">เดนิช(mini)</a><span>฿22.50</span>
+              <a href="#">Danish Pastry</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -62,7 +62,7 @@
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">ชานมไทย</a><span>฿32.00</span>
+              <a href="#">Rich Creamy Aromatic Thai Milk Tea</a><span>฿32.00</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -71,7 +71,7 @@
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">อัญชันมะนาว</a><span>฿32.00</span>
+              <a href="#">Butterfly pea and Lime Drink</a><span>฿32.00</span>
             </div>
             <div class="menu-ingredients">
             คำอธิบาย
@@ -80,7 +80,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">ชินนามอน(mini)</a><span>฿23.50</span>
+              <a href="#">Cinnamon Roll</a><span>฿23.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -89,7 +89,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">ครัวซองท์(mini)</a><span>฿22.50</span>
+              <a href="#">Butter Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -98,7 +98,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">ครัวซองท์ซ็อคชิพ(mini)</a><span>฿22.50</span>
+              <a href="#">Chocolate Chips Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -107,7 +107,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">ครัวซองท์ไส้กรอกไก่(mini)</a><span>฿22.50</span>
+              <a href="#">Chicken Sausage Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -116,7 +116,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">ครัวซองท์ไส้กรอกหมู(mini)</a><span>฿22.50</span>
+              <a href="#">Pork Sausage Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -125,7 +125,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">มอลต์เรซิ่น(mini)</a><span>฿22.50</span>
+              <a href="#">Malt Raisin Roll</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               คำอธิบาย
@@ -567,7 +567,7 @@
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
               <i class="bi bi-clock"></i>
               <h4>Open Hours:</h4>
-              <p>Monday-Saturday:<br>7:00 AM - 2300 PM</p>
+              <p>Monday-Saturday:<br>08:00 AM - 05:00 PM</p>
             </div>
 
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">

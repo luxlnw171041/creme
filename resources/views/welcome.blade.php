@@ -11,7 +11,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(delicious/img/slide/slide-1.jpg);">
+          <!-- <div class="carousel-item active" style="background: url(delicious/img/slide/slide-1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown"><span>Delicious</span> Restaurant</h2>
@@ -22,10 +22,10 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(delicious/img/slide/slide-2.jpg) ;">
+          <!-- <div class="carousel-item" style="background: url(delicious/img/slide/slide-2.jpg) ;">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -36,18 +36,18 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background: url(delicious/img/slide/slide-3.jpg);">
+          <div class="carousel-item active" style="background: url(delicious/img/slide/slide-3.jpg);">
             <div class="carousel-background"><img src="delicious/img/slide/slide-3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <!-- <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2> -->
+                <h2 class="animate__animated animate__fadeInUp">love is like bread. <br><br>It needs to be made fresh everyday.</h2>
                 <div>
-                  <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Book a Table</a>
+                  
+                  
                 </div>
               </div>
             </div>
@@ -89,11 +89,12 @@
               <p style="font-size:25px; color: #3B3942;"><strong>Our Company</strong></p>
               <h4>Who Are We</h4>
               <p>
-                Our business start until Khun Achara Yurawan retired from "SAINT GERMAIN" with experiences more than 40 years and now our company supply products all over the Thailand market.
+                Our business started when Khun Achara Yurawan retired from "SAINT GERMAIN", the well-known Japanese style bakery, with experiences more than 40 years. Khun Achara has a hand-on experienced and was excellently trained with skilled artisans. Khun Achara had leaned traditional and unique techniques and also acquired a knowledge for developing traditional Japanese bakery to meet Thailand market. Over the years, Crème de la crème has made ourselves with its high-quality bread and pastries supplying products all over Thailand Market. Moreover, we constantly update, develop and enhance our expertise.
               </p>
               <h4>Products</h4>
               <p>
-              We have more than 70 items which could satisfy your customer for all segment.</p>
+                We have more than 70 items which could meet and satisfy our customers for all segments.
+              </p>
             </div>
 
           </div>
@@ -118,13 +119,8 @@
             <div class="box">
               <span>01</span>
               <h4>Mission And Vision</h4>
-              <p>Create a bakery which makes the best
-                  quality baked goods for all of our
-                  customers with an unparalleled
-                  product and experience. Our talent
-                  team only use the best of ingredients
-                  and techniques to create the best
-                  product quality.</p>
+              <p>We promise to use only the best ingredients and techniques to create the outstanding quality bakery that enhances life experiences for all of our customers. </p>
+              <p>We will never stop producing and creating the best quality of bread.</p>
             </div>
           </div>
 
@@ -142,10 +138,10 @@
               <h4>Sales Channel</h4>
               <p>VILLA MARKET <br>
                 FUJI SUPERMARKET<br>
-                THE MALL GROUP<br>
-                MBK. TEDDY BURGER DOG IN TOWN<br>
-                MAMON ETC.</p>
-            </div>
+                GOURMET - THE MALL GROUP<br>
+                SOUTHERN COFFEE<br>
+                SCOOZI ITALIAN RESTAURANT</p>
+              </div>
           </div>
 
         </div>
@@ -718,7 +714,7 @@
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
               <i class="bi bi-clock"></i>
               <h4>Open Hours:</h4>
-              <p>Monday-Saturday:<br>7:00 AM - 2300 PM</p>
+              <p>Monday-Saturday:<br>08:00 AM - 05:00 PM</p>
             </div>
 
             <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">

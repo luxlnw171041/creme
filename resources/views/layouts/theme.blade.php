@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Cremedelacremes</title>
+  <title style="">Cremedelacremes</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -14,6 +14,9 @@
   <link href="{{ asset('delicious/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,600,600i,700,700i|Satisfy|Comic+Neue:300,300i,400,400i,700,700i" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@500&family=Satisfy&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="{{ asset('delicious/vendor/animate.css/animate.min.css') }}" rel="stylesheet">
@@ -38,7 +41,9 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-center justify-content-lg-start">
       <i class="bi bi-phone d-flex align-items-center"><span >+66(0)86-977-7677, +66(0)95-556-5411</span></i>
       <i class="bi bi-clock ms-4 d-none d-lg-flex align-items-center"><span >Mon-Sun: 08:00 AM - 05:00 PM</span></i>
-      &nbsp;<div style="margin-top:15px;" id="google_translate_element"></div>
+      &nbsp;<span><div style="margin-top:-15px; margin-left:500px;position: absolute;">
+                <div id="google_translate_element"></div>
+              </div></span>
     </div>
   </section>
 
@@ -47,8 +52,8 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <div class="logo me-auto">
-        <h1><a href="">Creme</a></h1>
-        <h5>&nbsp;&nbsp;&nbsp;&nbsp; <a href="index">de la Creme</a></h5>
+        <h1  style="font-family: 'Satisfy', cursive;"><a href="">Creme</a></h1>
+        <h5 style="font-family: 'Satisfy', cursive;">&nbsp;&nbsp;&nbsp;&nbsp; <a href="">de la Creme</a></h5>
         
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="asset/img/logo.png" alt="" class="img-fluid"></a>-->
@@ -58,7 +63,6 @@
         <ul>
           <li><a class="nav-link scrollto active" href="{{URL::to('/')}}">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#menu">Menu</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li class="dropdown"><a href="#"><span>Petite</span> <i class="bi bi-chevron-down"></i></a>
@@ -83,7 +87,7 @@
   <footer id="footer">
     <div class="container">
       <h3>Creme</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <p>Good bread heals everything.</p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -91,7 +95,10 @@
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <div class="copyright">
+      <audio controls autoplay loop>
+        <source src="delicious/sound/Creme sound.mp3">
+    </audio>
+      <div class="copyright"> <br>
         &copy; Copyright <strong><span>Creme</span></strong>. All Rights Reserved
       </div>
     </div>
@@ -134,6 +141,9 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() { 
   modal.style.display = "none";
+}
+window.onload = function() {
+  var context = new AudioContext();
 }
 </script>
 
