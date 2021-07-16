@@ -29,7 +29,7 @@
               <a href="#">Anpan Red Bean Bread</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              คำอธิบาย
+              ถั่วแดง(mini)
             </div>
           </div>
 
@@ -38,88 +38,7 @@
               <a href="#">Anpan Custard Cream Bread</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-beverages">
-            <div class="menu-content">
-              <a href="#">Rich Creamy Aromatic Taiwanese Milk Tea</a><span>฿32.00</span>
-            </div>
-            <div class="menu-ingredients">
-            ชาไต้หวันเเท้ๆ ชงสดใหม่ในทุกๆ วัน ทำให้ชามีรสชาติอร่อยกลมกล่อม
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-bread">
-            <div class="menu-content">
-              <a href="#">Danish Pastry</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-beverages">
-            <div class="menu-content">
-              <a href="#">Rich Creamy Aromatic Thai Milk Tea</a><span>฿32.00</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-beverages">
-            <div class="menu-content">
-              <a href="#">Butterfly pea and Lime Drink</a><span>฿32.00</span>
-            </div>
-            <div class="menu-ingredients">
-            คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-bread">
-            <div class="menu-content">
-              <a href="#">Cinnamon Roll</a><span>฿23.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-croissant">
-            <div class="menu-content">
-              <a href="#">Butter Croissant</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-croissant">
-            <div class="menu-content">
-              <a href="#">Chocolate Chips Croissant</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-croissant">
-            <div class="menu-content">
-              <a href="#">Chicken Sausage Croissant</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-croissant">
-            <div class="menu-content">
-              <a href="#">Pork Sausage Croissant</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              คำอธิบาย
+              ไส้ครีม(mini)
             </div>
           </div>
 
@@ -128,7 +47,7 @@
               <a href="#">Malt Raisin Roll</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              คำอธิบาย
+              มอลต์เรซิ่น(mini)
             </div>
           </div>
 
@@ -137,10 +56,109 @@
               <a href="#">ขนมปังชีส(mini)</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              คำอธิบาย
+              ขนมปังชีส(mini)
             </div>
           </div>
 
+          <div class="col-lg-6 menu-item filter-bread">
+            <div class="menu-content">
+              <a href="#">Danish Pastry</a><span>฿22.50</span>
+            </div>
+            <div class="menu-ingredients">
+              เดนิช(mini)
+            </div>
+          </div>
+          
+          <div class="col-lg-6 menu-item filter-bread">
+            <div class="menu-content">
+              <a href="#">Cinnamon Roll</a><span>฿23.50</span>
+            </div>
+            <div class="menu-ingredients">
+              ชินนามอน(mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bread">
+            <div class="menu-content">
+              <a href="#">Butter Scone</a><span>฿23.50</span>
+            </div>
+            <div class="menu-ingredients">
+              สโคน (mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bread">
+            <div class="menu-content">
+              <a href="#">Raisin Scone</a><span>฿23.50</span>
+            </div>
+            <div class="menu-ingredients">
+              สโคนลูกเกด (mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-croissant">
+            <div class="menu-content">
+              <a href="#">Butter Croissant</a><span>฿22.50</span>
+            </div>
+            <div class="menu-ingredients">
+              ครัวซองท์(mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-croissant">
+            <div class="menu-content">
+              <a href="#">Chocolate Chips Croissant</a><span>฿22.50</span>
+            </div>
+            <div class="menu-ingredients">
+              ครัวซองท์ซ็อคชิพ(mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-croissant">
+            <div class="menu-content">
+              <a href="#">Chicken Sausage Croissant</a><span>฿22.50</span>
+            </div>
+            <div class="menu-ingredients">
+              ครัวซองท์ไส้กรอกไก่(mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-croissant">
+            <div class="menu-content">
+              <a href="#">Pork Sausage Croissant</a><span>฿22.50</span>
+            </div>
+            <div class="menu-ingredients">
+              ครัวซองท์ไส้กรอกหมู(mini)
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-beverages">
+            <div class="menu-content">
+              <a href="#">Rich Creamy Aromatic Taiwanese Milk Tea</a><span>฿32.00</span>
+            </div>
+            <div class="menu-ingredients">
+              ชานมไต้หวัน
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-beverages">
+            <div class="menu-content">
+              <a href="#">Rich Creamy Aromatic Thai Milk Tea</a><span>฿32.00</span>
+            </div>
+            <div class="menu-ingredients">
+              ชานมไทย
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-beverages">
+            <div class="menu-content">
+              <a href="#">Butterfly pea and Lime Drink</a><span>฿32.00</span>
+            </div>
+            <div class="menu-ingredients">
+              อัญชันมะนาว
+            </div>
+          </div>
+          
         </div>
 
       </div>
