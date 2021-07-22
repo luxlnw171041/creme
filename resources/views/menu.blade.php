@@ -53,7 +53,7 @@
 
           <div class="col-lg-6 menu-item filter-bread">
             <div class="menu-content">
-              <a href="#">ขนมปังชีส(mini)</a><span>฿22.50</span>
+              <a href="#">Cheese Bread</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
               ขนมปังชีส(mini)
