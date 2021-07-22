@@ -10,8 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link rel="icon" href="delicious/img/Creme.png">
-  
+  <link href="delicious/img/Favicon.png" rel="icon">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,600,600i,700,700i|Satisfy|Comic+Neue:300,300i,400,400i,700,700i" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
