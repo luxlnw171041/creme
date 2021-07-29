@@ -3,14 +3,17 @@
 
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
+  <meta name="author" content="Creative Tim">
 
   <title style="">Cremedelacremes</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="delicious/img/Favicon.png" rel="icon">
+  <link rel="shortcut icon" href="{{ asset('/delicious/img/Creme.png') }}" type="image/x-icon" />
+  <!-- <link href="{{ asset('delicious/img/favicon.png') }}" rel="icon"> -->
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,600,600i,700,700i|Satisfy|Comic+Neue:300,300i,400,400i,700,700i" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
