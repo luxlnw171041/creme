@@ -86,12 +86,14 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
 
             <div class="content">
-              <p style="font-size:25px; color: #3B3942;"><strong>Our Company</strong></p>
-              <h4>Who Are We</h4>
+              <p style="font-size:25px; color: #3B3942;"><strong>OUR COMPANY</strong></p>
+              <HR></HR>
+              <h4>WHO ARE WE</h4>
               <p>
                 Our business started when Khun Achara Yurawan retired from "SAINT GERMAIN", the well-known Japanese style bakery, with experiences more than 40 years. Khun Achara has a hand-on experienced and was excellently trained with skilled artisans. Khun Achara had leaned traditional and unique techniques and also acquired a knowledge for developing traditional Japanese bakery to meet Thailand market. Over the years, Crème de la crème has made ourselves with its high-quality bread and pastries supplying products all over Thailand Market. Moreover, we constantly update, develop and enhance our expertise.
               </p>
-              <h4>Products</h4>
+              <HR></HR>
+              <h4>PRODUCTS</h4>
               <p>
                 We have more than 70 items which could meet and satisfy our customers for all segments.
               </p>
@@ -118,7 +120,8 @@
           <div class="col-lg-4">
             <div class="box">
               <span>01</span>
-              <h4>Mission And Vision</h4>
+              <h4>MISSION AND VISION</h4>
+              <hr>
               <p>We promise to use only the best ingredients and techniques to create the outstanding quality bakery that enhances life experiences for all of our customers. </p>
               <p>We will never stop producing and creating the best quality of bread.</p>
             </div>
@@ -127,20 +130,22 @@
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>02</span>
-              <h4>Product</h4>
-              <p>WE NEVER NO STOP PRODUCING THE BEST QUALITY OF BREADt</p>
+              <h4>PRODUCT</h4>
+              <hr>
+              <p>We never no stop producing the best quality of bread</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>03</span>
-              <h4>Sales Channel</h4>
-              <p>VILLA MARKET <br>
-                FUJI SUPERMARKET<br>
-                GOURMET - THE MALL GROUP<br>
-                SOUTHERN COFFEE<br>
-                SCOOZI ITALIAN RESTAURANT</p>
+              <h4>SALES CHANNEL</h4>
+              <hr>
+              <p>Villa Market <br>
+                Fuji Supermarket<br>
+                Gourmet - The Mall Group<br>
+                Southern Coffee<br>
+                Scoozi Italian Restaurant</p>
               </div>
           </div>
 

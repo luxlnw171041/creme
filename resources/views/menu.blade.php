@@ -101,7 +101,7 @@
               <a href="#">Butter Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              ครัวซองท์(mini)
+              ครัวซองต์(mini)
             </div>
           </div>
 
@@ -110,7 +110,7 @@
               <a href="#">Chocolate Chips Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              ครัวซองท์ซ็อคชิพ(mini)
+              ครัวซองต์ช็อกโกแลตชิ(mini)
             </div>
           </div>
 
@@ -119,7 +119,7 @@
               <a href="#">Chicken Sausage Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              ครัวซองท์ไส้กรอกไก่(mini)
+              ครัวซองต์ไส้กรอกไก่(mini)
             </div>
           </div>
 
@@ -128,7 +128,7 @@
               <a href="#">Pork Sausage Croissant</a><span>฿22.50</span>
             </div>
             <div class="menu-ingredients">
-              ครัวซองท์ไส้กรอกหมู(mini)
+              ครัวซองต์ไส้กรอกหมู(mini)
             </div>
           </div>
 
