@@ -132,7 +132,7 @@
               <span>02</span>
               <h4>PRODUCT</h4>
               <hr>
-              <p>We never no stop producing the best quality of bread</p>
+              <p>We never stop producing the best quality of bread</p>
             </div>
           </div>
 
