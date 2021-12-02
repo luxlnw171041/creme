@@ -236,7 +236,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Butter Croissant</a><span>฿35</span>
+              <a href="#">Butter Croissant </a><span>฿35</span>
             </div>
             <div class="menu-ingredients">ครัวซองเนย</div>
           </div>
