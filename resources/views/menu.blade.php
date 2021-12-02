@@ -15,150 +15,332 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="menu-flters">
               <li data-filter="*" class="filter-active">Show All</li>
-              <li data-filter=".filter-bread">Bread</li>
+              <li data-filter=".filter-bakery">Bakery</li>
               <li data-filter=".filter-beverages">Beverages</li>
               <li data-filter=".filter-croissant">Croissant</li>
+              <li data-filter=".filter-dippingsauce">Dipping Sauce</li>
             </ul>
           </div>
         </div>
 
         <div class="row menu-container">
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Anpan Red Bean Bread</a><span>฿22.50</span>
+              <a href="#">Truffle Butter Cheese Roll</a><span>฿89</span>
             </div>
             <div class="menu-ingredients">
-              ถั่วแดง(mini)
+            ทรัฟเฟิลชีสบัตเตอร์โรล
             </div>
           </div>
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Anpan Custard Cream Bread</a><span>฿22.50</span>
+              <a href="#">Cheesy Ham Pizza Roll</a><span>฿89</span>
             </div>
             <div class="menu-ingredients">
-              ไส้ครีม(mini)
+            แฮมชีสพิซซ่าโรล
             </div>
           </div>
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Malt Raisin Roll</a><span>฿22.50</span>
+              <a href="#">Creamcheese Garlic Butter Baguette</a><span>฿89</span>
             </div>
             <div class="menu-ingredients">
-              มอลต์เรซิ่น(mini)
+                ขนมปังเนยกระเทียมครีมชีส
             </div>
           </div>
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Cheese Bread</a><span>฿22.50</span>
+              <a href="#">Butter Cheese Roll</a><span>฿69</span>
             </div>
             <div class="menu-ingredients">
-              ขนมปังชีส(mini)
-            </div>
-          </div>
-
-          <div class="col-lg-6 menu-item filter-bread">
-            <div class="menu-content">
-              <a href="#">Danish Pastry</a><span>฿22.50</span>
-            </div>
-            <div class="menu-ingredients">
-              เดนิช(mini)
+            บัตเตอร์ชีสโรล
             </div>
           </div>
           
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Cinnamon Roll</a><span>฿23.50</span>
+              <a href="#">Super Cheesy Sandwish</a><span>฿89</span>
             </div>
             <div class="menu-ingredients">
-              ชินนามอน(mini)
+            แซนวิสชีสทะลัก
             </div>
           </div>
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Butter Scone</a><span>฿23.50</span>
+              <a href="#">Creamcheese Garlic Butter with Clam Roll</a><span>฿89</span>
             </div>
             <div class="menu-ingredients">
-              สโคน (mini)
+            ขนมปังเนยกระเทียมหอยลายครีมชีส
             </div>
           </div>
 
-          <div class="col-lg-6 menu-item filter-bread">
+          <div class="col-lg-6 menu-item filter-bakery">
             <div class="menu-content">
-              <a href="#">Raisin Scone</a><span>฿23.50</span>
+              <a href="#">Cinnamon Roll</a><span>฿65</span>
             </div>
             <div class="menu-ingredients">
-              สโคนลูกเกด (mini)
+              ชินนามอนโรล
             </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Custard Cream Raisin Danish</a><span>฿65</span>
+            </div>
+            <div class="menu-ingredients">
+              เดนิสครีมลูดเกด
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Raisin Scone</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">
+            สโคนลูกเกด
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Amashuko</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">
+            อะมาชูคุ
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">milk stick</a><span>฿25</span>
+            </div>
+            <div class="menu-ingredients">
+            ขนมปังนม
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Malt Raisin Roll</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">
+            ขนมปังธัญพืชลูกเกด
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Fruit cake</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">
+            เค้กรัมผลไม้
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Red Bean Moji bun</a><span>฿45</span>
+            </div>
+            <div class="menu-ingredients">
+            ขนมปังไส้ถั่วแดงโมจิ
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Red bean</a><span>฿45</span>
+            </div>
+            <div class="menu-ingredients">
+            ขนมปังไส้ถั่วแดง
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Taro bun</a><span>฿45</span>
+            </div>
+            <div class="menu-ingredients">
+            ขนมปังไส้เผือก
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Chocolate Chiffon Cake</a><span>฿65</span>
+            </div>
+            <div class="menu-ingredients">
+              ช็อคโกแลตชิฟฟอนเค้ก
+            </div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Festive Snack</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">ขนมพิเศษช่วงเทศกาล</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Coco Banana</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">ขนมปังโกโก้กล้วย</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Crispy and Crunchy Malt Raisin</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">อบกรอบธัญพืชลูกเกด</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Crispy and Crunchy Butter Sesame</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">อบกรอบน้ำตาลงาดำ</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Crispy Garlic Milk Sticks</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">ขาไก่กรอบกระเทียม</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Crispy Black Sesame Sticks</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">ขาไก่กรอบงาดำ</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Crispy and Savoury Garlic Snacks</a><span>฿55</span>
+            </div>
+            <div class="menu-ingredients">ขนมปังกรอบกระเทียมเค็ม</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-bakery">
+            <div class="menu-content">
+              <a href="#">Croutons</a><span>฿35</span>
+            </div>
+            <div class="menu-ingredients">ขนมปังลูกเต๋าอบกรอบ</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Butter Croissant</a><span>฿22.50</span>
+              <a href="#">Butter Croissant</a><span>฿35</span>
             </div>
-            <div class="menu-ingredients">
-              ครัวซองต์(mini)
-            </div>
+            <div class="menu-ingredients">ครัวซองเนย</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Chocolate Chips Croissant</a><span>฿22.50</span>
+              <a href="#">Sausage Croissant</a><span>฿40</span>
             </div>
-            <div class="menu-ingredients">
-              ครัวซองต์ช็อกโกแลตชิ(mini)
-            </div>
+            <div class="menu-ingredients">ครัวซองไส้กรอก</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Chicken Sausage Croissant</a><span>฿22.50</span>
+              <a href="#">Chocolate Croissant</a><span>฿40</span>
             </div>
-            <div class="menu-ingredients">
-              ครัวซองต์ไส้กรอกไก่(mini)
-            </div>
+            <div class="menu-ingredients">ครัวซองช็อคโกแลต</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Pork Sausage Croissant</a><span>฿22.50</span>
+              <a href="#">Bacon Croissant</a><span>฿45</span>
+            </div>
+            <div class="menu-ingredients">ครัวซองเบคอน</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-croissant">
+            <div class="menu-content">
+              <a href="#">Bacon Cheese Croissant</a><span>฿79</span>
             </div>
             <div class="menu-ingredients">
-              ครัวซองต์ไส้กรอกหมู(mini)
+            ครัวซองเบคอนชีส
             </div>
           </div>
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">Rich Creamy Aromatic Taiwanese Milk Tea</a><span>฿32.00</span>
+              <a href="#">Thai Milk Tea</a><span>฿45</span>
             </div>
-            <div class="menu-ingredients">
-              ชานมไต้หวัน
-            </div>
+            <div class="menu-ingredients">ชานมไทยสูตรโบราณ</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">Rich Creamy Aromatic Thai Milk Tea</a><span>฿32.00</span>
+              <a href="#">Rosella Drink</a><span>฿45</span>
             </div>
-            <div class="menu-ingredients">
-              ชานมไทย
-            </div>
+            <div class="menu-ingredients">น้ำกระเจี๊ยบเข้มข้นสูตรโบราณ</div>
           </div>
 
           <div class="col-lg-6 menu-item filter-beverages">
             <div class="menu-content">
-              <a href="#">Butterfly pea and Lime Drink</a><span>฿32.00</span>
+              <a href="#">Butterfly pea, Lime and Honey Drink</a><span>฿45</span>
             </div>
-            <div class="menu-ingredients">
-              อัญชันมะนาว
+            <div class="menu-ingredients">น้ำอัญชันน้ำผึ้งมะนาว</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-beverages">
+            <div class="menu-content">
+              <a href="#">Chrysanthemum Tea</a><span>฿45</span>
             </div>
+            <div class="menu-ingredients">น้ำเก๊กฮวยสูตรโบราณ</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-beverages">
+            <div class="menu-content">
+              <a href="#">Chinese Plum Drink</a><span>฿45</span>
+            </div>
+            <div class="menu-ingredients">น้ำบ๊วยเข้มข้นสูตรโบราณ</div>
           </div>
           
+          <div class="col-lg-6 menu-item filter-dippingsauce">
+            <div class="menu-content">
+              <a href="#">Cheese Dips - Original</a><span>฿39</span>
+            </div>
+            <div class="menu-ingredients">ชีสดิปออริจินัล</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-dippingsauce">
+            <div class="menu-content">
+              <a href="#">Cheese Dips - Wasabi</a><span>฿39</span>
+            </div>
+            <div class="menu-ingredients">ชีสดิปวาซาบิ</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-dippingsauce">
+            <div class="menu-content">
+              <a href="#">Cheese Dips - Pizza</a><span>฿39</span>
+            </div>
+            <div class="menu-ingredients">ชีสดิปพิซซ่า</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-dippingsauce">
+            <div class="menu-content">
+              <a href="#">Cheese Dips - Spicy Mayo</a><span>฿39</span>
+            </div>
+            <div class="menu-ingredients">ชีสดิปสไปซี่มาโย</div>
+          </div>
+
+          <div class="col-lg-6 menu-item filter-dippingsauce">
+            <div class="menu-content">
+              <a href="#">Cheese Dips - Truffle</a><span>฿69</span>
+            </div>
+            <div class="menu-ingredients">ชีสดิปทรัฟเฟิล</div>
+          </div>
+
         </div>
 
       </div>
