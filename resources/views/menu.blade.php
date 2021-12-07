@@ -8,7 +8,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Check our tasty <span>Menu</span></h2>
+          <h2><img  src="delicious/img/sticker/02.png" width="10%"> Check our tasty <span>Menu</span></h2>
         </div>
 
         <div class="row">
@@ -236,7 +236,7 @@
 
           <div class="col-lg-6 menu-item filter-croissant">
             <div class="menu-content">
-              <a href="#">Butter Croissant </a><span>฿35</span>
+              <a href="#">Butter Croissant</a><span>฿35</span>
             </div>
             <div class="menu-ingredients">ครัวซองเนย</div>
           </div>
@@ -599,7 +599,7 @@
       <div class="container-fluid">
 
         <div class="section-title">
-          <h2>Some photos from <span>Our Bakery</span></h2>
+          <h2><img  src="delicious/img/sticker/13.png" width="10%"> Some photos from <span>Our Bakery</span></h2>
         </div>
 
         <div class="row no-gutters">
@@ -745,7 +745,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2><span>Contact</span> Us</h2>
+          <h2><span>Contact</span> Us<img  src="delicious/img/sticker/17.png" width="10%"></h2>
           </div>
       </div>
 
