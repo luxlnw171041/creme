@@ -555,7 +555,7 @@
       <div class="container-fluid">
 
         <div class="section-title">
-          <h2><img  src="delicious/img/sticker/13.png" width="100px"><br class="d-block d-md-none"> Some photos from <span>Our Bakery</span></h2>
+          <h2><img class="visible-sm" src="delicious/img/sticker/13.png" width="100px"><br class="d-block d-md-none"> Some photos from <span>Our Bakery</span></h2>
         </div>
 
         <div class="row no-gutters">
