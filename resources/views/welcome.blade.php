@@ -703,6 +703,7 @@
         <div class="section-title">
           <h2><span>Contact</span> Us 
             <img class="visible-sm" src="delicious/img/sticker/17.png" width="100px">
+            <img class="visible-sm" src="delicious/img/sticker/13.png" width="100px">
           </h2>
           </div>
       </div>
