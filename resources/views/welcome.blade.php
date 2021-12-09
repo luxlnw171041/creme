@@ -90,7 +90,7 @@
 
             <div class="content">
             
-              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong><img  src="{{ asset('/delicious/sticker/05.png') }}" width="100px">OUR COMPANY</strong></p>
+              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong><img  src="{{ asset('/delicious/sticker/20.png') }}" width="100px">OUR COMPANY</strong></p>
               <HR></HR>
               <h4>WHO ARE WE</h4>
               <p>
