@@ -44,7 +44,7 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <div class="row">
-                  <img  src="{{ asset('/delicious/sticker/12.png') }}" width="10%" alt="" class="order-2 col-12 col-md-5  animate__animated animate__fadeInUp">
+                  <img  src="{{ asset('/delicious/img/sticker/12.PNG') }}" width="10%" alt="" class="order-2 col-12 col-md-5  animate__animated animate__fadeInUp">
                   <h2 class="col-12 col-md-6 animate__animated animate__fadeInUp order-1" style="margin-top:25px;"> <br class="d-none d-lg-block"><br class="d-none d-lg-block"><br class="d-block d-md-none"> <br class="d-block d-md-none"> love is like bread. <br><br>It needs to be made fresh everyday.</h2></div>
                 <!-- <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2> -->
                 
@@ -90,7 +90,7 @@
 
             <div class="content">
             
-              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong><img  src="{{ asset('/delicious/sticker/sticker-1.png') }}" width="100px">OUR COMPANY</strong></p>
+              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong><img  src="{{ asset('/delicious/img/sticker/05.PNG') }}" width="100px">OUR COMPANY</strong></p>
               <HR></HR>
               <h4>WHO ARE WE</h4>
               <p>
@@ -555,7 +555,7 @@
       <div class="container-fluid">
 
         <div class="section-title">
-          <h2><img class="visible-sm" src="{{ asset('/delicious/sticker/13.png') }}" width="100px"><br class="d-block d-md-none"> Some photos from <span>Our Bakery</span></h2>
+          <h2><img class="visible-sm" src="{{ asset('/delicious/img/sticker/13.PNG') }}" width="100px"><br class="d-block d-md-none"> Some photos from <span>Our Bakery</span></h2>
         </div>
 
         <div class="row no-gutters">
@@ -702,7 +702,7 @@
 
         <div class="section-title">
           <h2><span>Contact</span> Us 
-            <img class="visible-sm" src="{{ asset('/delicious/sticker/17.png') }}" width="100px">
+            <img class="visible-sm" src="{{ asset('/delicious/img/sticker/17.png') }}" width="100px">
           </h2>
           </div>
       </div>
