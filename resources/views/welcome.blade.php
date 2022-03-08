@@ -78,11 +78,14 @@
 
         <div class="row">
 
-        <div class="col-lg-5 col-md-4">
+          <div class="col-lg-5 col-md-4 d-flex align-items-center" >
             <div class="gallery-item">
-              <a href="delicious/img/creme2.jpg" class="gallery-lightbox">
-                <img src="delicious/img/creme2.jpg" alt="" class="img-fluid">
-              </a>
+              <br>
+              <video class="video-fluid z-depth-1" width="100%" style="border: 1px solid #ffb03b; border-radius: 10px; " loop controls>
+                <source src="{{ asset('delicious/video/Creme de la creme v.1.mp4') }}" type="video/mp4" />
+              </video>
+              <img class="d-none d-lg-block" style="float: right;margin-top:-85px;margin-right:-48px" src="{{ asset('/delicious/img/sticker/12.PNG') }}" width="100px">
+              
             </div>
           </div>
 
@@ -90,7 +93,9 @@
 
             <div class="content">
             
-              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong><img  src="{{ asset('/delicious/img/sticker/05.PNG') }}" width="100px">OUR COMPANY</strong></p>
+              <p style="font-size:25px; color: #3B3942;padding:0px;"><strong>
+                <img  src="{{ asset('/delicious/img/sticker/05.PNG') }}" width="100px">
+                OUR COMPANY</strong></p>
               <HR></HR>
               <h4>WHO ARE WE</h4>
               <p>
